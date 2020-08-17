@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mushfique/OT4/Mobile_App/node_modules/react-native-share-extension/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/mushfique/.gradle/caches/transforms-2/files-2.1/1c57a05a5d283c9a708b173ed536b993/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mushfique/OT4/Mobile_App/node_modules/react-native-share-extension/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/mushfique/.gradle/caches/transforms-2/files-2.1/1c57a05a5d283c9a708b173ed536b993/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mushfique/OT4/Mobile_App/node_modules/react-native-share-extension/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/mushfique/.gradle/caches/transforms-2/files-2.1/1c57a05a5d283c9a708b173ed536b993/core-1.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mushfique/OT4/Mobile_App/node_modules/react-native-share-extension/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/mushfique/.gradle/caches/transforms-2/files-2.1/1c57a05a5d283c9a708b173ed536b993/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
